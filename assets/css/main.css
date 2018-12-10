@@ -3528,7 +3528,7 @@ input, select, textarea {
 				padding: 0;
 			}
 
-				#wrapper:before {
+			#wrapper:before {
 					display: none;
 				}
 
